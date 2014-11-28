@@ -1,0 +1,57 @@
+.
+<!--ESTA PÁGINA AÚN SE ENCUENTRA EN EDICIÓN-->
+{{Ficha de organización
+|nombre             = Cofradía del Dragón<!---Nombre de la organización-->
+<!--|eslogan            = Nueva imagen, mismo sentimiento-->
+|logo               = [[File:Logo Cofradía Dragón.png|thumb|Logotipo de la Cofradía del Dragón]]
+|tamaño_logo        = 200px
+|pie_logo           = 
+|imagen             =
+|tamaño_imagen      = 
+|pie_imagen         = 
+|acrónimo           = 
+|tipo               = Asociación lúdica.
+|fundación          = 3 septiembre de 2003
+<!-- |fundador         =        Los fundadores decidieron que sus nombres no se publicaran en nov2014-->
+|sede               = <!-- ubicación geográfica de la sede principal -->
+|área_de_influencia = [[Moratalaz]] y [[Vicálvaro]]
+|miembros           = 38 (2014)
+|sitio_web          =http://www.cofradiadragon.com/
+}}
+La '''Cofradía del Dragón''' es una entidad sin ánimo de lucro dedicada a fomentar y disfrutar actividades lúdicas basadas en [[Juego_de_rol|juegos de rol]], [[Juego_de_mesa|de mesa]], simulación, y cartas, así como organizar jornadas, actividades y eventos relativos a éstos.
+
+==Presente== <!-- Nota del editor ellaerestu: Quizá sea más conveniente de cara al formato de wikipedia poner los enlaces a las listas de juegos dentro de citas de referencia, aún no sé si esto es lo adecuado pero veo mejor dejarlo así de momento por usabilidad del lector -->
+
+Actualmente, la Asociación desarrolla sus actividades habituales los sábados por la tarde en el C.C. Valdebernardo <ref>Centro Cultural de [http://www.madrid.es/portales/munimadrid/es/Inicio/Ayuntamiento/Cultura-y-Ocio/Centro-Cultural-Valdebernardo-Vicalvaro-?vgnextfmt=default&vgnextoid=69188899fc81c010VgnVCM1000000b205a0aRCRD&vgnextchannel=0c369e242ab26010VgnVCM100000dc0ca8c0RCRD&idioma=es&idiomaPrevio=es&rmColeccion=b8987d57b0368210VgnVCM1000000b205a0aRCRD Valdebernardo]
+Web del Ayuntamiento de Madrid: [https://sede.madrid.es/portal/site/tramites/menuitem.d3089948cb18b1bb68d8a521ecd08a0c/?vgnextoid=37717fc789901110VgnVCM1000000b205a0aRCRD&vgnextchannel=6aeca38813180210VgnVCM100000c90da8c0RCRD]</ref>
+, y sábados por la mañana, miércoles y viernes por la tarde, en el Centro Cultural de [[Eduardo_Chillida|Eduardo Chillida]]&thinsp;<ref>[http://www.madrid.es/portales/munimadrid/es/Inicio/Ayuntamiento/Chamartin/Actividades/Centro-Cultural-Eduardo-Chillida-%28Moratalaz%29?vgnextfmt=default&vgnextoid=01963d0b5e71c010VgnVCM1000000b205a0aRCRD&vgnextchannel=be12d47ffee28010VgnVCM100000dc0ca8c0RCRD Centro Cultural Eduardo Chillida]</ref>.
+
+La lista de juegos disponibles para los socios pueden ser consultadas en la web ([http://www.cofradiadragon.com/phpBB/viewtopic.php?f=1&t=3337 lista Eduardo Chillida] [http://www.cofradiadragon.com/phpBB/viewtopic.php?f=1&t=3261 lista Valdebernardo]).
+
+== Eventos Organizados ==
+<!-- *Jornadas Cofradía del Dragón.            //falta ampliar información, periodicidad o no de estas jornadas,y si se añade una fuente más potente mejor    fuente: http://jubiladosdearkham.com/2014/jornada-cofradia-del-dragon -->
+*'''[[Jornadas Solidarias Ludo Ergo Sum]]'''
+*'''Jornadas Homenaje a [[Howard_Phillips_Lovecraft|H.P.Lovecraft]]''' <ref>[http://vicalvablog.blogspot.com.es/2013/02/la-cofradia-del-dragon-te-invita-una.html |Blog de Vicálvaro]del Ayto. Madrid : </ref>
+
+<!--  == Participación relevante en eventos ==
+
+//Habría que contrastar relevancia de la participación y encontrar fuentes de ello fuera de la propia asociación y su foro. -->
+
+<!-- == Historia ==
+
+FECHA, FORMACIÓN, ORÍGENES
+-->
+
+
+== Referencias ==
+{{listaref}}
+
+
+
+
+
+<!-- == Enlaces externos == -->
+
+
+<!--Introduce abajo los nombres de categorías y borra la plantilla {{categorízame}}  --->
+[[Categoría:Ocio en Madrid]]
